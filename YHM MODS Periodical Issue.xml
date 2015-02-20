@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+    <titleInfo>
+        <title>Shiloh's messenger of wisdom, vol. 1, issue 1 (January 1, 1903)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Messenger of Wisdom</title>
+    </titleInfo>
+    <name type="corporate">
+        <namePart>House of David</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">periodical</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">-us</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Benton Harbor, MI</placeTerm>
+        </place>
+        <publisher>House of David</publisher>
+        <dateIssued>1903-01-01</dateIssued>
+        <issuance>serial</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <note>"Shiloh's Messenger of Wisdom" (1903-1945) was the monthly journal of the House of David founded by Benjamin Purnell in Benton Harbor, Michigan.</note>
+    <subject authority="lcsh">
+        <topic>House of David--Publications.</topic>
+        <topic>Purnell, Benjamin Franklin, 1861-1927.</topic>
+        <topic>Benton Harbor (Mich.)--History--Periodicals.</topic>
+    </subject>
+    <subject authority="aat">
+        <topic>flags</topic>
+        <topic>swords</topic>
+        <topic>trumpets (aerophones)</topic>
+        <topic>scrolls (information artifacts)</topic>
+        <topic>books</topic>
+        <topic>chains (object genres)</topic>
+        <genre>Periodicals</genre>
+    </subject>
+    <subject>
+        <geographic>Benton Harbor (Mich.)</geographic>
+        <geographic>Berrien County (Mich.)</geographic>
+        <geographic>Michigan</geographic>
+    </subject>
+    <subject authority="none">
+        <topic>Periodicals</topic>
+    </subject>
+    <subject>
+        <hierarchicalGeographic>
+            <continent>North America</continent>
+            <country>United States</country>
+            <state>Michigan</state>
+            <city>Benton Harbor</city>
+            <county>Barrien</county>
+        </hierarchicalGeographic>
+    </subject>
+    <classification authority="lcc">BX6184.5.A1 S5</classification>
+    <identifier type="local">spe-hod-shi-01-01</identifier>
+    <identifier type="oclc">ocm01607757</identifier>
+    <accessCondition type="use and reproduction">Contact information: Hamilton College, Burke Library, 198 College Hill Rd, Clinton, NY 13323, 315-859-4479, askref@hamilton.edu (Contact information). Use policy: http://dlib.hamilton.edu/dl/dlget.php?doc=use</accessCondition>
+    <accessCondition type="restriction on access">There is no restriction on access to this material.</accessCondition>
+    <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
+        <recordContentSource authority="marcorg">NCH</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2015-02-16</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="succeeding">
+        <originInfo>
+            <issuance>continuing</issuance>
+        </originInfo>
+    </relatedItem>
+</mods>
